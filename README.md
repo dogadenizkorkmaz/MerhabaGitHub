@@ -1,1 +1,1 @@
-Intellij üzerinden GitHub'a repo gönderip, ardından commit yapmayı öğrendi
+Intellij üzerinden GitHub'a repo gönderip, ardından commit yapmayı öğrendim.
